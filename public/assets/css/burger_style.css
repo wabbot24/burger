@@ -1,0 +1,53 @@
+.container {
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+.grid-container {
+    display: grid;
+    grid-column-gap: 20px;
+    grid-template-columns: auto auto;
+    padding: 10px;
+}
+h1 {
+    font-size: 80px;
+    text-align: center;
+    margin: 0px;
+}
+h2 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+    font-size: 48px;
+}
+.column1 {
+    background-color: rgb(228, 59, 59);
+    padding: 10px;
+}
+.column2 {
+    padding: 10px;
+    background-color: rgb(255, 228, 72);
+}
+img {
+    /* height: 400px; */
+}
+.createForm {
+    height: 200px;
+    margin-top: 30px;
+    float: left;
+    background-color: rgb(97, 172, 97);
+    padding: 10px;
+}
+html {
+    background-color: rgb(247, 156, 104);
+}

@@ -1,0 +1,3 @@
+INSERT INTO `burgers` (`burger_name`, `burger_description`) VALUES ('MySQL Burger', 'Squirrel meat burger inserted into your table on command!');
+INSERT INTO `burgers` (`burger_name`, `burger_description`) VALUES ('Handlebars Burger', 'The bun and condiments remain the same, but you choose any patty for your body!');
+INSERT INTO `burgers` (`burger_name`, `burger_description`) VALUES ('ORM Burger', 'Input any meat or patty object, we use our patented relational model to bring back your perfect burger!');
